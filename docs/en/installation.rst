@@ -20,6 +20,6 @@ Installation Procedure
 
    .. code-block:: bash
 
-      git clone https://github.com/moodle-by-kelsoncm/tiny_fontsize.git fontsize
+      git clone https://github.com/moodle-by-kelsoncm/moodle-tiny_fontsize.git fontsize
 
 3. Access **Site administration > Notifications** in Moodle to complete the database installation.

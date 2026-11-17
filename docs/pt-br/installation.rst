@@ -20,6 +20,6 @@ Procedimento de Instalação
 
    .. code-block:: bash
 
-      git clone https://github.com/moodle-by-kelsoncm/tiny_fontsize.git fontsize
+      git clone https://github.com/moodle-by-kelsoncm/moodle-tiny_fontsize.git fontsize
 
 3. Acesse **Administração do site > Notificações** no Moodle para concluir a instalação do banco de dados.
